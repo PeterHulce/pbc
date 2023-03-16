@@ -5,7 +5,7 @@
   min-width: 160px;
   background-color: #17800A;
   border: 2px solid #17800A;
-  font-family: 'Poppins';
+  font-family: 'League Spartan', sans-serif;
   font-size: 22px;
   color: white; }
   .nav-button.pure-button-primary:disabled {
@@ -44,7 +44,7 @@
 /* All global variables should be declared here */
 .radio-button-group-wrapper {
   color: white;
-  font-family: 'Century Gothic';
+  font-family: 'League Spartan', sans-serif;
   font-size: 21px; }
   .radio-button-group-wrapper .radio-button-container {
     width: 100%; }
@@ -378,7 +378,7 @@
       height: 100%;
       margin: 0px;
       font-size: 21px;
-      font-family: 'Century Gothic';
+      font-family: 'League Spartan', sans-serif;
       font-weight: medium;
       text-align: right;
       padding-right: 25px; }
@@ -393,7 +393,7 @@
       font-weight: bold; }
     .npc-question-wrapper .question-wrapper fieldset .question-text {
       border-left: 1px solid #ccc;
-      font-family: 'Century Gothic';
+      font-family: 'League Spartan', sans-serif;
       font-size: 21px;
       padding: 10px 25px 10px 25px;
       margin-top: 0px;
@@ -411,7 +411,7 @@
       color: crimson; }
     .npc-question-wrapper .question-wrapper fieldset .answer-wrapper {
       border-left: 1px solid #ccc;
-      font-family: 'Century Gothic';
+      font-family: 'League Spartan', sans-serif;
       font-size: 18px;
       padding: 10px 25px 10px 25px;
       margin-top: -10px;
@@ -430,7 +430,7 @@
       text-align: left;
       padding-left: 15px; }
     .npc-question-wrapper .question-wrapper .question-text {
-      font-family: 'Century Gothic';
+      font-family: 'League Spartan', sans-serif;
       font-size: 14px;
       padding: 10px 15px 0px 15px;
       margin-top: 0px;
@@ -443,7 +443,7 @@
       border-left: 0px;
       margin-top: 0px; }
     .npc-question-wrapper .question-wrapper .answer-wrapper {
-      font-family: 'Century Gothic';
+      font-family: 'League Spartan', sans-serif;
       font-size: 14px;
       padding: 0px 15px 0px 15px;
       margin-top: 0px;
@@ -526,7 +526,7 @@
 .npc-agreement-wrapper {
   padding: 0px 20px;
   font-size: 19px;
-  font-family: 'Century Gothic';
+  font-family: 'League Spartan', sans-serif;
   text-align: center; }
   .npc-agreement-wrapper .action-wrapper {
     text-align: center;
@@ -570,7 +570,7 @@
 .npc-review-wrapper .answer-row {
   margin: 0px auto;
   padding: 15px;
-  font-family: 'Century Gothic';
+  font-family: 'League Spartan', sans-serif;
   font-size: 21px; }
   .npc-review-wrapper .answer-row .section-title {
     text-align: right; }
@@ -595,7 +595,7 @@
   .npc-review-wrapper .answer-row {
     margin: 0px auto;
     padding: 10px 15px 10px 15px;
-    font-family: 'Century Gothic'; }
+    font-family: 'League Spartan', sans-serif; }
     .npc-review-wrapper .answer-row .section-title {
       text-align: left; }
       .npc-review-wrapper .answer-row .section-title span {
