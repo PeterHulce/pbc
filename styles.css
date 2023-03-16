@@ -807,9 +807,7 @@ html {
   -ms-text-size-adjust: auto;
   -webkit-text-size-adjust: auto; }
 
-@-moz-document url-prefix() {
-  h1 {
-    color: red; } }
+@-moz-document url-prefix() {}
 
 .npc-app {
   min-height: 100vh;
