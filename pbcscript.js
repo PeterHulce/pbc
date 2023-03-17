@@ -16,7 +16,7 @@
         explanation3: "If you have questions about costs for Pacific Bible College, please do not hesitate to contact PBC at 541-776-9942.",
         tableOne: {
             tuition: { amount: 4370, inDistrict: 0, inState: 0, outState: 0 },
-            books: { amount: 250 },
+            books: { amount: 250 },decorated
             expensesRoom: { onCampus: 0, offCampusNoFamily: 11250, offCampusFamily: 0 },
             expensesOther: { onCampus: 0, offCampusNoFamily: 990, offCampusFamily: 990 },
         },
