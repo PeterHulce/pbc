@@ -13459,7 +13459,7 @@ and limitations under the License.
                     return (
                         p(t, e),
                         (t.prototype.render = function () {
-                            return a.createElement("button", { className: "button", onClick: this.props.handleClick, disabled: this.props.isDisabled }, this.props.buttonText);
+                            return a.createElement("button", { className: "nav-button pure-button pure-button-primary", onClick: this.props.handleClick, disabled: this.props.isDisabled }, this.props.buttonText);
                         }),
                         t
                     );
